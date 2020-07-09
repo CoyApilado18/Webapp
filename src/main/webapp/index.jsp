@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>God will make a way</title>
+    <title>DevSecops</title>
 
 
     <!-- Custom styles for this template -->
