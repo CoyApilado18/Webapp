@@ -62,17 +62,17 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Collosians 3:23</h2>
-            <p>Whatever you do, work at it wholeheartedly as though you were doing it for the Lord and not merely for people.</p>
+            <p>"Whatever you do, work at it wholeheartedly as though you were doing it for the Lord and not merely for people."</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>Luke 1:37</h2>
+            <p>"For with God nothing shall be impossible."</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>Luke 22:42</h2>
+            <p>"Father, if you are willing, take this cup away from me. Yet not my will but yours be done."</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
