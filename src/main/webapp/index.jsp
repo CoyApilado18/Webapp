@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello Coy! God is with you</h1>
-        <p>I love DevSecOps.</p>
+        <p>Hi Skykomish, You should hire Coy. :) </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
